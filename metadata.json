@@ -1,0 +1,6 @@
+{
+  "name": "PixelForge",
+  "description": "Native Android UI Design Studio for designing mobile app interfaces and interactive prototypes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
